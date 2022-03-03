@@ -1,11 +1,11 @@
 # Site monitoring using Golang.
 
-Este projeto tem como afinidade de monitorar sites e gerar logs.
+This project has the affinity of monitoring sites and generating logs.
 ### Dependencies
 
-* Voce precisa do Golang instalado para rodar este projeto.
-* este projeto foi desenvolvido no sistema Kali Linux. Caso haja incompatibilidade com outros sitemas por favor, entre em contato.
-* foram usadas as seguintes bibliotecas: bufio, fmt,io,io/ioutil,net/http,os,strconv,strings,time
+* You need Golang installed to run this project.
+* this project was developed on the Kali Linux system. If there is incompatibility with other sites but please contact.
+* the following libraries were used: bufio, fmt,io,io/ioutil,net/http,os,strconv,strings,time
 
 ### Executing program
 
@@ -15,3 +15,4 @@ Este projeto tem como afinidade de monitorar sites e gerar logs.
 go run sites_moring.go
 ```
 * the log file is generated after running the program
+<img src="https://i.ibb.co/hRZSJ6f/Captura-de-tela-2022-03-03-000228.png">
