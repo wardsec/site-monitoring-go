@@ -9,8 +9,8 @@ This project has the affinity of monitoring sites and generating logs.
 
 ### Executing program
 
-* How to run the progracode blocks for commands
-* Step-by-step bullets
+* How to run the program.
+* One step to run.
 ```
 go run sites_moring.go
 ```
