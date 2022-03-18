@@ -8,7 +8,7 @@ This project has the affinity of monitoring sites and generating logs.
 * the following libraries were used: bufio, fmt,io,io/ioutil,net/http,os,strconv,strings,time
 
 ### Executing program
-
+* The sites.txt file contains all the sites you want to monitor, edit it
 * How to run the program.
 * One step to run.
 ```
